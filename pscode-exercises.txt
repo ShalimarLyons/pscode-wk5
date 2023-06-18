@@ -44,4 +44,3 @@ Display "Maximum: " + maximum
 	 End
 
 
-(Your pseudocode here)
